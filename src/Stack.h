@@ -1,4 +1,4 @@
-@@ -17,6 +17,13 @@ class Stack
+ class Stack{
   		void push(Element*);
   		Element* pop();
   		Stack();
@@ -10,5 +10,5 @@
  +			 {		return _last;	}
  +
   };
-  
+
   #endif /* STACK_H_ */
